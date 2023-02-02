@@ -70,7 +70,7 @@
 
 ### Interested ?
 
-📫 Reach me on **wmuriithitabitha2gmail.com**
+📫 Reach me on **wmuriithitabitha@gmail.com**
 
 <br />
 
@@ -135,12 +135,12 @@
 
 <!-- END: EXPERIENCE I -->
 
-<!-- Section: GITHUB OVERVIEW -->
+Section: GITHUB OVERVIEW
 #
 
-<!-- <h2 align="left">My GitHub Overview</h2>
+<h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SheeTabz&show_icons=true&locale=en" alt="jrosseel" /></p>
 
 <!-- END -->
 
